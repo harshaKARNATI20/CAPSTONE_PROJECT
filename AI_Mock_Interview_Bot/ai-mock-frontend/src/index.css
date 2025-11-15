@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Custom global styles */
+body {
+  font-family: "Poppins", sans-serif;
+  @apply bg-gray-50 text-gray-800;
+}
